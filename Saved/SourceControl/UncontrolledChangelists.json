@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/BotondHalasz/Documents/UE5Projects/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"C:/Users/BotondHalasz/Documents/UE5Projects/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER.uasset",
+				"C:/Users/BotondHalasz/Documents/UE5Projects/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/BotondHalasz/Documents/UE5Projects/MyHero/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
